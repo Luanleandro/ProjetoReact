@@ -1,0 +1,12 @@
+.logo{
+    display: flex;
+    font-size: 15px;
+    color: #2d356c;
+    font-weight: bolder;
+    align-items: center;
+    padding: 20px;
+  }
+
+.logo-img{
+    margin-right: 10px;
+}

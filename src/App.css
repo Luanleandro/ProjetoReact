@@ -1,0 +1,50 @@
+.App{
+    width: 100vw;
+    height: 100vw;
+    background-image: white
+}
+
+.App-header{
+    background-color: #EE4D2D;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+
+.opcoes{
+    display: flex;
+    font-size: 1.125rem;
+    font-family: 'Inter Tight', sans-serif;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    min-width: 120px;
+    padding: 0 20px;
+    height: 100%;
+    cursor: pointer;
+}
+
+.opcao{
+    display: flex;
+}
+
+li{
+    list-style: none;
+}
+
+.icones{
+    display: flex;
+    align-items: center;
+}
+
+.icone{
+    margin-right: 40px;
+    width: 25px;
+    cursor: pointer;
+}
+
+.container-menu {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
